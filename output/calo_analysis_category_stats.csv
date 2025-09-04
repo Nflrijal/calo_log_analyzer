@@ -1,0 +1,8 @@
+Category,Count,Percentage
+processing_message,17370,34.016802773045065
+other,16324,31.96835281906664
+balance_sync_start,16300,31.92135205530423
+balance_sync_skip,570,1.1162681393572647
+balance_already_synced,489,0.9576405616591269
+transaction,6,0.011750190940602784
+slack_notification,4,0.007833460627068524
